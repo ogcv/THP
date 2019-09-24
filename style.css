@@ -1,0 +1,151 @@
+.top{
+color:black;
+ text-decoration: none;
+ font-size: 15px;
+ margin-right: 10px;
+
+ }
+ .top:hover
+ {color:grey;
+text-decoration: underline;
+
+ 
+ }
+ .align
+ {text-align: right;
+padding-right: 30px;
+ }
+ .connexion
+ {color: white;
+ 	background-color: #4D82EB;
+ 	padding: 8px;
+border-radius: 3px;
+font-family: Arial;
+font-size: 15px;
+margin-left: 5px;
+text-decoration: none
+}
+
+.carre{
+;
+}
+img{
+	vertical-align: middle;
+
+	
+}
+#conteneur{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 160px;
+}
+
+.recherche{
+color: grey;
+background-color: #EBEEF4;
+padding: 9px;
+border-radius: 3px;
+text-decoration: none;
+margin-top: 5px;
+margin-left: 15px;}
+.recherche1{
+color: grey;
+background-color: #EBEEF4;
+padding: 9px;
+border-radius: 3px;
+text-decoration: none;
+margin-top: 5px;}
+.recherche:hover
+{
+border:solid 2px grey;
+color: black;
+}
+.recherche1:hover
+{
+border:solid 2px grey;
+color: black;
+}
+.element{margin-bottom: 20px;}
+
+.barreG:hover
+{
+box-shadow: 1px 1px 1px 1px black;}
+
+element
+{
+margin-bottom: 20px;
+}
+.france
+{
+color: #6D6C6C;
+background-color: #EBEEF4;
+padding : 11px;
+border: solid 2px #DFDFDF;
+margin-bottom: -18px;
+}
+.bas
+{
+color: #6D6C6C;
+background-color: #EBEEF4;
+padding : 11px;
+border: solid 2px #DFDFDF;
+}
+.pub
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 20px;
+}
+.entreprise
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 20px;
+}
+.propos
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 20px;
+}
+.comment
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 440px;
+}
+.infos
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 20px;
+}
+.confi
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 20px;
+}
+.condi
+{
+color: #6D6C6C;
+text-decoration: none;
+margin-right: 20px;
+}
+
+.bas:visited
+{
+color:#6D6C6C;
+}
+
+#liens
+{
+display: flex;
+flex-direction: column;
+justify-content: flex-end;
+margin-top: 200px;
+margin-bottom: -70px;
+font-size: 15px;
+}
